@@ -2,7 +2,7 @@
 #include <FastLED.h>
 
 // LED 配置常量
-#define LED_PIN 23    // 数据引脚
+#define LED_PIN 21    // 数据引脚
 #define NUM_LEDS 1    // LED 数量
 #define BRIGHTNESS 64 // 亮度 (0-255)
 #define LED_TYPE WS2812B
